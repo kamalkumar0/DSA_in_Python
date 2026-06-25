@@ -45,4 +45,5 @@ python binary_search.py
 ## 👨‍💻 Author
 
 Kamal Kumar
+
 Learning DSA and Python to strengthen problem-solving and software development skills.
