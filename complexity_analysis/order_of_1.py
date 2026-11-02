@@ -1,3 +1,4 @@
+#order of 1 complexity
 list = [1,25,36,25,23,2,5,26,3,52]
 target = list[0]
 
