@@ -1,6 +1,6 @@
 marks = [11, 21, 33, 54, 79, 90]
 
-
+#remove an element from the list by using value O(n) ->> where n is the value to be removed
 marks.remove(54)
 print(marks)
 
