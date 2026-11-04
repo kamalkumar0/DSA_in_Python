@@ -16,3 +16,7 @@ marks = [10, 20, 30, 40, 50]
 # Right to left traversal of the list
 for mark in reversed(marks):
     print(mark, end=" ")
+
+# 2nd way Right to left traversal of the list
+for mark in marks[::-1]:
+    print(mark, end=" ")
