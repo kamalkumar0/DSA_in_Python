@@ -17,7 +17,7 @@ def two_pointer(arr, target):
     return []  # Return an empty list if no pair is found
 
 arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-target = 8
+target = 7
 
 result = two_pointer(arr, target)
 print(result)  # Output: (1, 9) or (2, 8) or (3, 7) or (4, 6) depending on the implementation
