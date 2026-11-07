@@ -10,7 +10,5 @@ def clean(students):
 
     return left + 1
 
-    
-
-print("Original list:", students)
-print(clean(students))
+count = clean(students)
+print("Number of unique students:", count)  
