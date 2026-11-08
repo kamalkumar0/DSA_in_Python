@@ -1,5 +1,5 @@
 students = ["Kamal", "John", "Kamal", "Alice", "Bob", "Alice"]
-
+students.sort()  # Sort the list to group duplicates together
 def clean(students):
     left = 0    
 
@@ -12,6 +12,7 @@ def clean(students):
 
 count = clean(students)
 print("Number of unique students:", count)
+
 
 
 
