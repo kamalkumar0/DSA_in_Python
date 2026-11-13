@@ -1,3 +1,5 @@
+# same direction two pointer problem
+# duplicate bhi hat jayenge result me 
 students = ["Kamal", "John", "Kamal", "Alice", "Bob", "Alice"]
 students.sort()  # Sort the list to group duplicates together
 
