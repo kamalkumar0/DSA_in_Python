@@ -1,5 +1,4 @@
 # sliding window problems 
-
 from turtle import left, right
 
 
@@ -18,6 +17,9 @@ def sliding_window(prices, window_size):
         max_sum = max(max_sum, current_sum)
 
     return max_sum
+
+result = sliding_window(chocolate, 3)
+print(f"The maximum sum of {3} consecutive elements in the array is: {result}")
     
 
         
