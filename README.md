@@ -1,29 +1,70 @@
+
 # DSA in Python 🚀
 
-This repository contains Data Structures and Algorithms (DSA) concepts implemented in Python. It is created for learning, practicing, and improving problem-solving skills.
+A beginner-friendly collection of Data Structures and Algorithms (DSA) implemented in Python. This repository documents my learning journey as I strengthen my problem-solving skills and prepare for coding interviews.
 
-## 📂 Contents
+## 📚 Topics Covered
 
 ### Searching Algorithms
-- Binary Search (`binary_search.py`)
 
-### Time Complexity Examples
-- O(1) - Constant Time (`order_of_1.py`)
-- O(log n) - Logarithmic Time (`order_of_Log_n.py`)
+| Algorithm | File | Time Complexity |
+|---|---|---|
+| Binary Search | `binary_search.py` | O(log n) |
 
-## 🎯 Goals
+### Time Complexity
 
-- Learn DSA fundamentals
-- Understand time and space complexity
-- Practice problem-solving in Python
-- Build a strong foundation for coding interviews
+| Complexity | Example File | Description |
+|---|---|---|
+| O(1) | `order_of_1.py` | Constant time |
+| O(log n) | `order_of_Log_n.py` | Logarithmic time |
 
-## 🛠️ Technologies Used
+> More algorithms and concepts will be added as I continue learning.
+
+## 🎯 Learning Goals
+
+- Understand core data structures and algorithms.
+- Analyze time and space complexity.
+- Improve logical thinking and problem-solving.
+- Practice writing clean, readable Python code.
+- Build a strong foundation for technical interviews.
+
+## 🛠️ Technologies
 
 - Python 3
+- Git and GitHub
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/kamalkumar0/DSA_in_Python.git
+```
+
+### Navigate to the project
+
+```bash
+cd DSA_in_Python
+```
+
+### Run a Python file
+
+```bash
+python binary_search.py
+```
+
+## 🤝 Contributions
+
+Suggestions, corrections, and improvements are welcome.
 
 ## 👨‍💻 Author
 
-Kamal Kumar
+**Kamal Kumar**
 
-Learning DSA and Python to strengthen problem-solving and software development skills.
+Learning Python, DSA, and problem-solving—one concept at a time.
+
+GitHub: [@kamalkumar0](https://github.com/kamalkumar0)
+
+---
+
+⭐ If you find this repository useful, consider giving it a star!
