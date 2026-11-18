@@ -22,26 +22,6 @@ This repository contains Data Structures and Algorithms (DSA) concepts implement
 
 - Python 3
 
-## ▶️ How to Run
-
-Clone the repository:
-
-```bash
-git clone <your-repository-url>
-```
-
-Move into the project directory:
-
-```bash
-cd "DSA in Python"
-```
-
-Run any Python file:
-
-```bash
-python binary_search.py
-```
-
 ## 👨‍💻 Author
 
 Kamal Kumar
