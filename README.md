@@ -50,7 +50,7 @@ cd DSA_in_Python
 ### Run a Python file
 
 ```bash
-python binary_search.py
+python file_name.py
 ```
 
 ## 🤝 Contributions
